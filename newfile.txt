@@ -12,3 +12,5 @@ The End
 Ipak nije kraj
 
 Jos jedna promjena
+
+Another change. :D
