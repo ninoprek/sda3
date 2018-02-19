@@ -1,4 +1,2 @@
 This is a new file for a  new branch!
-Cao NinoPrek.
-
-some other change
+This is a new line of txt.
