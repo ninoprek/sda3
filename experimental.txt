@@ -1,4 +1,9 @@
 This is a new file for a  new branch!
+<<<<<<< HEAD
 Cao NinoPrek.
 
 some other change
+=======
+
+It is very convenient for me to put a comment in this place. 
+>>>>>>> master
