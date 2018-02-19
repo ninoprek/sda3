@@ -3,8 +3,9 @@
 This is an amazing project - check it out dude!!!
 Another thing!
 
-I really like what you did here. ;)
 
 Made a change!!
+Made a second one. :D
+And a third one is here!
 
 This change is crazy!!

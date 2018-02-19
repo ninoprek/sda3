@@ -1,3 +1,5 @@
 This is a new file for a  new branch!
 
-It is very convenient for me to put a comment in this place. 
+It is very convenient for me to put a comment in this place.
+
+This should produce a conflict
