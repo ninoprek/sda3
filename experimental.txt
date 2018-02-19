@@ -1,14 +1,18 @@
 This is a new file for a  new branch!
-<<<<<<< HEAD
+ HEAD
 This is a new line of txt.
-=======
-<<<<<<< HEAD
+
+
 Cao NinoPrek.
 Cao Nemanja! Sta ima?
 
 some other change
-=======
+
+
+
+It is very convenient for me to put a comment in this place.
+
+This should produce a conflict
 
 It is very convenient for me to put a comment in this place. 
->>>>>>> master
->>>>>>> 31fb98bf4d55391ea11f8956c94953cc9bec46be
+
