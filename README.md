@@ -6,5 +6,6 @@ Another thing!
 I really like what you did here. ;)
 
 Made a change!!
+Made a second one. :D
 
 This change is crazy!!
