@@ -16,4 +16,8 @@ Jos jedna promjena
 
 Another change. :D
 
+<<<<<<< HEAD
 I keep changing stuff more and more!!
+=======
+I keep changing stuff agin and again!!
+>>>>>>> testBranch
