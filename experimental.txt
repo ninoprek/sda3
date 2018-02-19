@@ -1,5 +1,15 @@
 This is a new file for a  new branch!
+<<<<<<< HEAD
+Cao NinoPrek.
 
+some other change
+=======
+
+<<<<<<< HEAD
 It is very convenient for me to put a comment in this place.
 
 This should produce a conflict
+=======
+It is very convenient for me to put a comment in this place. 
+>>>>>>> master
+>>>>>>> a530f2d3d4dc4d495c00a038dd78b6af84303c87
